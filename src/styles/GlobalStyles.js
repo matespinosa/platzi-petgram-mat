@@ -19,10 +19,11 @@ export const GlobalStyle = createGlobalStyle`
     list-style: none;
   }
 
-  button: {
+  button {
     background: transparent;
     border: none;
     outline: none;
+    cursor: pointer;
   }
 
   body {
