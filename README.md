@@ -1,5 +1,3 @@
-# curso-platzi-react-avanzado ⚛️
+# Curso avanzado de ReactJS
 
-¡Sígueme en Youtube! https://www.youtube.com/midudev
-
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+Red social de mascotas y diferentes animales, con inicio de sesión, registro, interactividad con el contenido, sección de favoritos y usuario
